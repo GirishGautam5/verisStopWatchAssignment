@@ -55,7 +55,7 @@ export default function Timer(props) {
             className="btn start-button pause-button "
             onClick={pauseHandler}
           >
-            Pause
+            {appData.pauseButton}
           </button>
         )}
 

@@ -121,6 +121,7 @@ const data = {
     stopButton: 'Stop',
     continueButton: 'Continue',
     resetButton: 'Reset',
+    pauseButton: 'Pause',
     plankImage: 'https://apicms.thestar.com.my/uploads/images/2020/10/30/918009.jpg',
     mountainClimberImage: 'https://cdn.mos.cms.futurecdn.net/JDdefEyTSFj9kt5QvjZqtB.jpg',
     topCities: 'Top Cities',
