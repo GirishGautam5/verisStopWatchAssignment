@@ -1,0 +1,71 @@
+.plank-area {
+  margin-top: 36px;
+  display: block;
+  position: relative;
+  height: 492px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  bottom: 30px;
+}
+@media (min-width: 1200px) {
+  .container-fluid {
+    max-width: 100%;
+    padding: 0 96px;
+  }
+}
+.container-fluid {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.plank-text {
+  padding: 89px 0;
+  display: inline-block;
+  margin-left: 50px;
+}
+.plank-area h2 {
+  font-size: 36px;
+  margin-bottom: 48px;
+  margin-top: 0;
+  font-weight: 500;
+  color: #465166;
+  line-height: 38px;
+  font-family: sans-serif;
+}
+.plank-area p {
+  max-width: 390px;
+  padding-bottom: 72px;
+  font-size: 16px;
+  line-height: 21px;
+  color: rgba(70, 81, 102, 0.7);
+  margin-bottom: 0;
+}
+.sell-button {
+  cursor: pointer;
+  width: 100px;
+  color: #fff;
+  font-weight: 700;
+  background-color: #ed6c0d;
+  letter-spacing: 0.4px;
+  font-size: 16px;
+  height: 48px;
+  position: relative;
+  padding: 0 0.75rem;
+  border-radius: 5px;
+  text-align: center;
+  display: block;
+  border: none;
+  outline: none;
+  box-shadow: 0 4px 8px 0 rgb(237 108 13 / 50%);
+}
+.plank-img {
+  top: 0;
+
+  width: 794px;
+  height: auto;
+}
+.plank {
+  margin-bottom: 30px;
+}
