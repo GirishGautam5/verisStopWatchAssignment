@@ -54,9 +54,13 @@ footer{
   object-fit: contain;
 }
 .title{
-  color:#87C552;
+  color:#FAD744;
   font-size: 54px;
   line-height: 50px;
+  font-weight: bold;
+}
+.title:hover{
+  text-decoration: none;
 }
 .navigation-links a{
   color:#ffffff;
