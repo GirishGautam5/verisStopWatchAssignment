@@ -2,6 +2,7 @@ import "./App.css";
 import { BrowserRouter, Link } from "react-router-dom";
 import FooterComponent from "./Footer/FooterComponent";
 import HomeScreen from "./HomeScreen";
+import HorizantalScroll from "./HorizantalScroll";
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
         <main className="main">
           <div className="content">
             <HomeScreen />
+            <HorizantalScroll />
           </div>
         </main>
         <footer className="footer-area">
